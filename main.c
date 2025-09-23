@@ -23,8 +23,8 @@
  * ******************************************************************************
  */
 
-#include "vscp_compiler.h"
-#include "vscp_projdefs.h"
+#include "vscp-compiler.h"
+#include "vscp-projdefs.h"
 
 #include <xc.h>
 #include <timers.h>

@@ -2,7 +2,7 @@
 
 **Document reversion**: 1.0.0 2015-07-07
 
-Copyright © 2000-2020 Åke Hedman, [Grodans Paradis
+Copyright © 2000-2025 Åke Hedman, [Grodans Paradis
 AB](http://www.grodansparadis.com),
 \<[akhe@grodansparadis.com](akhe@grodansparadis.com)\>
 
@@ -26,7 +26,7 @@ available for international purchase from the
   - [Recipes](Recipes)
   - [faq](faq)
 
-//**Disclaimer:** © 2011-2015 Grodans Paradis AB. All rights reserved.
+//**Disclaimer:** © 2011-2025 Grodans Paradis AB. All rights reserved.
 Grodans Paradis AB®, logo and combinations thereof, are registered
 trademarks of Grodans Paradis AB. Other terms and product names may be
 trademarks of others. The information in this document is provided in

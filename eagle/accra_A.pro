@@ -1,6 +1,6 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/grodansparadis/development/vscp_hardware/can4vscp/can4vscp_accra_counter/eagle/accra_A.brd
+Job           : C:/Users/grodansparadis/development/vscp_hardware/can4vscp/can4vscp-accra_counter/eagle/accra_A.brd
 
 Start at      : 12:02:34 (2014-06-19)
 End at        : 12:02:34 (2014-06-19)

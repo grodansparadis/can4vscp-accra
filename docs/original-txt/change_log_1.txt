@@ -1,6 +1,6 @@
 ====== Change Log for Accra ======
 
-Change log is [[https://github.com/grodansparadis/can4vscp_accra/blob/master/HISTORY.txt|here]]
+Change log is [[https://github.com/grodansparadis/can4vscp-accra/blob/master/HISTORY.txt|here]]
 
 \\ 
 ---- 

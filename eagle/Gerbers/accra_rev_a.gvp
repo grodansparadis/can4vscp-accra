@@ -9,5 +9,5 @@
 (define-layer! 2 (cons 'filename "accra_A.milling")(cons 'visible #f)(cons 'color #(49601 0 57568)))
 (define-layer! 1 (cons 'filename "accra_A.drd")(cons 'visible #f)(cons 'color #(65535 32639 29555))(cons 'attribs (list (list 'autodetect 'Boolean 1) (list 'zero_supression 'Enum 0) (list 'units 'Enum 0) (list 'digits 'Integer 4))))
 (define-layer! 0 (cons 'filename "accra_A.cmp")(cons 'visible #f)(cons 'color #(29555 29555 57054)))
-(define-layer! -1 (cons 'filename "C:/Users/grodansparadis/development/vscp_hardware/can4vscp/can4vscp_accra_counter/eagle/Gerbers")(cons 'visible #f)(cons 'color #(0 0 0)))
+(define-layer! -1 (cons 'filename "C:/Users/grodansparadis/development/vscp_hardware/can4vscp/can4vscp-accra_counter/eagle/Gerbers")(cons 'visible #f)(cons 'color #(0 0 0)))
 (set-render-type! 2)

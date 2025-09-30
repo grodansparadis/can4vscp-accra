@@ -6,7 +6,6 @@
 
 This module is part of the [VSCP project](https://www.vscp.org).  It is free to use, modify and sell. The only thing we kindly ask is that improvements and extensions are contributed back to the project (at your will). This to make the project better for everyone. All design files is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-The module is documented [here](https://grodansparadis.github.io/can4vscp-accra/#/)
 
 ![](./images/accra14.png)
 
@@ -21,8 +20,6 @@ VSCP CAN modules are designed to work on a VSCP4CAN bus which use ordinary RJ-45
 All VSCP modules contains information of there own setup, manual, hardware version, manufacturer etc. You just ask the module for the information you need and you will get it. When they are started up they have a default functionality that often is all that is needed to get a working setup. If the module have something to report it will send you an event and if it is setup to react on a certain type of event it will do it's work when you send event(s) to it. 
 
 ---
-
-
 
 ## Project files
 
@@ -45,7 +42,7 @@ All VSCP modules contains information of there own setup, manual, hardware versi
   * [MDF file version: 6 Release date: 2024-04-22](http://www.eurosource.se/accra_1.xml)
 
 ### Support
-If you need support, please open an issue in the [GitHub repository](https://github.com/grodansparadis/can4vscp-kelvin_ntc10k/issues).
+If you need support, please open an issue in the [GitHub repository](https://github.com/grodansparadis/can4vscp-accra/issues).
 
 ### Buy a ready made modules
 You can buy a ready made module from [Grodans Paradis](http://www.grodansparadis.com).

@@ -36,7 +36,7 @@ All VSCP modules contains information of there own setup, manual, hardware versi
 
  The firmware is developed in [MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide) using the [XC8 compiler](https://www.microchip.com/mplab/compilers).
 
-  * Binary release files is available [here](https://github.com/grodansparadis/can4vscp-vilnius/releases)
+  * Binary release files is available [here](https://github.com/grodansparadis/can4vscp-accra/releases)
 
 ### MDF - Module Description File(s)
   * [MDF file version: 6 Release date: 2024-04-22](http://www.eurosource.se/accra_1.xml)

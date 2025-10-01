@@ -2,7 +2,7 @@
 
 -----
 
-# The CAN4VSCP Accra general counter module</h1>
+# The CAN4VSCP Accra general counter module
 
 This module is part of the [VSCP project](https://www.vscp.org).  It is free to use, modify and sell. The only thing we kindly ask is that improvements and extensions are contributed back to the project (at your will). This to make the project better for everyone. All design files is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
@@ -36,7 +36,7 @@ All VSCP modules contains information of there own setup, manual, hardware versi
 
  The firmware is developed in [MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide) using the [XC8 compiler](https://www.microchip.com/mplab/compilers).
 
-  * Binary release files is available [here](https://github.com/grodansparadis/can4vscp-kelvin_ntc10k/releases)
+  * Binary release files is available [here](https://github.com/grodansparadis/can4vscp-vilnius/releases)
 
 ### MDF - Module Description File(s)
   * [MDF file version: 6 Release date: 2024-04-22](http://www.eurosource.se/accra_1.xml)

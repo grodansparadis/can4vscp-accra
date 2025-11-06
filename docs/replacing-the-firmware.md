@@ -18,7 +18,7 @@ Older firmware files may not have this code in the standard registers as it is a
 ## Where is the source for the firmware?
 
 You can find the latest source for the firmware
-[here](https://github.com/grodansparadis/can4vscp-frankfurt_rs232).
+[here](https://github.com/grodansparadis/can4vscp-accra).
 
 ## Replacing/updating the bootloader on the module
 
